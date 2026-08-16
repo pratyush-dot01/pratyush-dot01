@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/pratyush-dot01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Applied+AI+%2F+Computer+Vision+Systems;End-to-End+ML+Pipelines+%E2%86%92+Usable+Products;Software+Engineer+%7C+Flutter+Developer;C%2B%2B+%7C+DSA+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Applied+AI+%2F+Computer+Vision+Systems;End-to-End+ML+Pipelines+%E2%86%92+Usable+Products;Software+Engineer+%7C+Flutter+%2F+Mobile+Development;C%2B%2B+%7C+DSA+%7C+Problem+Solver" alt="Typing SVG" />
 </a>
 
 <br/><br/>
