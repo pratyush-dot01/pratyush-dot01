@@ -2,37 +2,34 @@
 
 <!-- ================= HERO ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Pratyush%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20/%20Computer%20Vision%20%7C%20Software%20Engineering%20%7C%20Flutter&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A0B,50:3B0A12,100:5A0F1B&height=220&section=header&text=Pratyush%20Kumar&fontSize=48&fontColor=D98A96&fontAlignY=38&desc=AI%20/%20Computer%20Vision%20%7C%20Software%20Engineering%20%7C%20Flutter&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/pratyush-dot01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Applied+AI+%2F+Computer+Vision+Systems;End-to-End+ML+Pipelines+%E2%86%92+Usable+Products;Software+Engineer+%7C+Flutter+%2F+Mobile+Development;C%2B%2B+%7C+DSA+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A63D4D&center=true&vCenter=true&width=650&lines=AI+%2F+Machine+Learning;Computer+Vision;Software+Engineering;Flutter+%2F+Mobile+Development;C%2B%2B+%2F+DSA" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication%20Engineering-6D28D9?style=for-the-badge&labelColor=0f0c29" />
-<img src="https://img.shields.io/badge/Institute-BIT%20Mesra-4C1D95?style=for-the-badge&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication%20Engineering-7A1F2B?style=for-the-badge&labelColor=0D0A0B" />
+<img src="https://img.shields.io/badge/Institute-BIT%20Mesra-5A0F1B?style=for-the-badge&labelColor=0D0A0B" />
 
 <br/><br/>
 
-<a href="mailto:{{ EMAIL }}"><img src="https://img.shields.io/badge/Email-{{ EMAIL }}-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" /></a>
-<a href="{{ LINKEDIN_URL }}"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" /></a>
-<a href="{{ PORTFOLIO_URL }}"><img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29" /></a>
-<a href="https://github.com/pratyush-dot01"><img src="https://img.shields.io/badge/GitHub-pratyush--dot01-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" /></a>
+<a href="mailto:pratyush10265@gmail.com"><img src="https://img.shields.io/badge/Email-pratyush10265%40gmail.com-A63D4D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0A0B" /></a>
+<a href="https://www.linkedin.com/in/pratyush-kumar-3776a5342"><img src="https://img.shields.io/badge/LinkedIn-Connect-7A1F2B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0A0B" /></a>
+<a href="https://github.com/pratyush-dot01"><img src="https://img.shields.io/badge/GitHub-pratyush--dot01-3B0A12?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0A0B" /></a>
 
 </div>
 
 <br/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+---
 
 ## 🧠 About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
-
-I'm an Electronics & Communication Engineering student at **BIT Mesra**, working at the intersection of **applied AI, computer vision, backend systems, and mobile engineering**. I'm drawn to problems that require going all the way from raw signal/data to a system someone can actually use.
+I'm an Electronics & Communication Engineering student at **BIT Mesra**, working at the intersection of **applied AI, computer vision, software engineering, and mobile development**. I'm drawn to problems that require going all the way from raw signal/data to a system someone can actually use.
 
 My approach to building something generally follows this loop:
 
@@ -44,14 +41,12 @@ Problem → Mathematical / Algorithmic Reasoning → Model / Algorithm
 A few things that describe how I work:
 
 - 🔬 I like reducing a messy real-world problem into features, representations, and a model that can be evaluated honestly — not just made to "look like it works."
-- 🏗️ I care about the layer *between* the model and the user — the backend, the mobile app, the inference pipeline — because a model that isn't usable isn't finished.
+- 🏗️ I care about the layer *between* the model and the user — the mobile app, the inference pipeline, the integration points — because a model that isn't usable isn't finished.
 - 🧩 I move comfortably between **C++/DSA problem solving**, **Python-based ML/CV work**, and **Flutter mobile development**.
 - 📊 I'd rather report an honest MAE/RMSE than an inflated claim — evaluation is part of the engineering, not an afterthought.
 - 🔁 I'm still early in my career, but I build things end-to-end and iterate on them deliberately.
 
-<br clear="right"/>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+---
 
 ## 🎯 Current Focus & Roadmap
 
@@ -90,7 +85,7 @@ A few things that describe how I work:
 </tr>
 </table>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+---
 
 ## 🧰 Tech Stack
 
@@ -98,44 +93,47 @@ A few things that describe how I work:
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-3B0A12?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5A0F1B?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-7A1F2B?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-A63D4D?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3B0A12?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **AI / ML / Computer Vision**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0B8C00?style=for-the-badge&logo=xgboost&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![DeepFace](https://img.shields.io/badge/DeepFace-6D28D9?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
-![PCA](https://img.shields.io/badge/PCA-4C1D95?style=for-the-badge)
-![OCR](https://img.shields.io/badge/OCR-7C3AED?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-5A0F1B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-7A1F2B?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-3B0A12?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-A63D4D?style=for-the-badge&logo=opencv&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-5A0F1B?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-7A1F2B?style=for-the-badge)
+![PCA](https://img.shields.io/badge/PCA-3B0A12?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-A63D4D?style=for-the-badge)
 
 **Mobile / Frontend**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Material3](https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-1B1B2F?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-5A0F1B?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-7A1F2B?style=for-the-badge)
 
 **Backend / Database**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-6366F1?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-3B0A12?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-A63D4D?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-5A0F1B?style=for-the-badge)
 
 **Developer Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-6F42C1?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7A1F2B?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-3B0A12?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-A63D4D?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-5A0F1B?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-7A1F2B?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-3B0A12?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-A63D4D?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+---
 
 ## 🔍 AI / ML & Computer Vision Competencies
 
@@ -149,7 +147,7 @@ A few things that describe how I work:
 | **Model Optimization** | PCA | Dimensionality reduction, feature selection, ensemble/fusion strategies |
 | **On-Device AI** | TFLite | Mobile inference concepts |
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+---
 
 ## 🚀 Featured Engineering Projects
 
@@ -272,7 +270,7 @@ A mobile-first AI application combining **Flutter** for the client experience wi
 
 </details>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+---
 
 ## 🧮 DSA & Competitive Programming
 
@@ -300,90 +298,68 @@ Algorithmic problem solving preparation across:
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+---
 
 ## 💼 Experience
 
-<details>
-<summary><b>{{ INTERNSHIP_ROLE }} — {{ COMPANY_NAME }}</b> ({{ INTERNSHIP_DATES }})</summary>
+<details open>
+<summary><b>Intern — IOValence Private Limited</b> (May 2026 – July 2026)</summary>
 <br/>
 
-Worked on **MediScan AI**, a mobile AI application, contributing to Flutter-based mobile development, backend integration, and computer-vision/ML inference workflows. Implementation details are confidential — see [Project 3](#-project-3--mediscan-ai-confidential-internship-project) above for a high-level summary.
+Worked on **MediScan AI**, a mobile AI application, contributing to **Flutter-based mobile development**, **mobile ↔ backend integration**, and **computer vision / ML inference workflows**.
+
+- Built and maintained parts of the **Flutter** client using **Riverpod** for state management
+- Integrated **camera/image capture workflows** into the app experience
+- Worked across the mobile ↔ backend boundary with **FastAPI** and **MongoDB**
+- Engaged with **ML inference concepts**, including **TFLite** and **YOLO**-based detection and **OCR** for image-derived data
+- Gained hands-on experience debugging and hardening a real, multi-layer application
+
+Implementation and architectural details remain confidential — see [MediScan AI](#-project-3--mediscan-ai-confidential-internship-project) above for a high-level project summary.
 
 **Technologies used:** `Flutter` `Riverpod` `FastAPI` `MongoDB` `TFLite` `YOLO` `OCR`
 
 </details>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 🏆 Achievements
-
-| Achievement | Details |
-|---|---|
-| `{{ ACHIEVEMENT_1 }}` | `{{ ACHIEVEMENT_1_DETAILS }}` |
-| `{{ ACHIEVEMENT_2 }}` | `{{ ACHIEVEMENT_2_DETAILS }}` |
-
-*(Placeholder section — to be filled in once achievements are provided.)*
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 📜 Certifications
-
-| Provider | Certification |
-|---|---|
-| `{{ CERTIFICATION_PROVIDER_1 }}` | `{{ CERTIFICATION_DETAILS }}` |
-
-*(Placeholder section — to be filled in once certifications are provided.)*
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+---
 
 ## 🔗 Coding Profiles
 
 <div align="center">
 
-<a href="{{ LEETCODE_URL }}"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="{{ CODEFORCES_URL }}"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-<a href="{{ GFG_URL }}"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="{{ HACKERRANK_URL }}"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="{{ CODECHEF_URL }}"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="{{ LEETCODE_URL }}"><img src="https://img.shields.io/badge/LeetCode-7A1F2B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D0A0B" /></a>
+<a href="{{ CODEFORCES_URL }}"><img src="https://img.shields.io/badge/Codeforces-5A0F1B?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D0A0B" /></a>
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pratyush-dot01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-dot01&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush-dot01&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush-dot01&hide_border=true&background=0D0A0B&border=5A0F1B&stroke=A63D4D&ring=7A1F2B&fire=A63D4D&currStreakNum=D98A96&sideNums=D98A96&currStreakLabel=A63D4D&sideLabels=D98A96&dates=7A1F2B" />
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+---
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush-dot01&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush-dot01&bg_color=0D0A0B&color=D98A96&line=A63D4D&point=D98A96&area=true&area_color=5A0F1B&hide_border=true" width="100%"/>
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+---
 
 ## 📫 Connect With Me
 
 <div align="center">
 
-<a href="mailto:{{ EMAIL }}"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="{{ LINKEDIN_URL }}"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/pratyush-dot01"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="{{ PORTFOLIO_URL }}"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:pratyush10265@gmail.com"><img src="https://img.shields.io/badge/Email-A63D4D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0A0B" /></a>
+<a href="https://www.linkedin.com/in/pratyush-kumar-3776a5342"><img src="https://img.shields.io/badge/LinkedIn-7A1F2B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0A0B" /></a>
+<a href="https://github.com/pratyush-dot01"><img src="https://img.shields.io/badge/GitHub-3B0A12?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0A0B" /></a>
 
 </div>
 
@@ -395,4 +371,4 @@ Worked on **MediScan AI**, a mobile AI application, contributing to Flutter-base
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A0F1B,50:3B0A12,100:0D0A0B&height=100&section=footer" width="100%"/>
