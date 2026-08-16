@@ -2,24 +2,24 @@
 
 <!-- ================= HERO ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A14,50:2E1065,100:4C1D95&height=220&section=header&text=Pratyush%20Kumar&fontSize=48&fontColor=C4B5FD&fontAlignY=38&desc=AI%20/%20Computer%20Vision%20%7C%20Software%20Engineering%20%7C%20Flutter&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120D11,50:2E1F29,100:614051&height=220&section=header&text=Pratyush%20Kumar&fontSize=48&fontColor=D3B8C4&fontAlignY=38&desc=AI%20/%20Computer%20Vision%20%7C%20Software%20Engineering%20%7C%20Flutter&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/pratyush-dot01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+%2F+Machine+Learning;Computer+Vision;Software+Engineering;Flutter+%2F+Mobile+Development;C%2B%2B+%2F+DSA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A67C8E&center=true&vCenter=true&width=650&lines=AI+%2F+Machine+Learning;Computer+Vision;Software+Engineering;Flutter+%2F+Mobile+Development;C%2B%2B+%2F+DSA" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication%20Engineering-6D28D9?style=for-the-badge&labelColor=0D0A14" />
-<img src="https://img.shields.io/badge/Institute-BIT%20Mesra-4C1D95?style=for-the-badge&labelColor=0D0A14" />
+<img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication%20Engineering-7D5468?style=for-the-badge&labelColor=120D11" />
+<img src="https://img.shields.io/badge/Institute-BIT%20Mesra-614051?style=for-the-badge&labelColor=120D11" />
 
 <br/><br/>
 
-<a href="mailto:pratyush10265@gmail.com"><img src="https://img.shields.io/badge/Email-pratyush10265%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0A14" /></a>
-<a href="https://www.linkedin.com/in/pratyush-kumar-3776a5342"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0A14" /></a>
-<a href="https://github.com/pratyush-dot01"><img src="https://img.shields.io/badge/GitHub-pratyush--dot01-2E1065?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0A14" /></a>
+<a href="mailto:pratyush10265@gmail.com"><img src="https://img.shields.io/badge/Email-pratyush10265%40gmail.com-A67C8E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=120D11" /></a>
+<a href="https://www.linkedin.com/in/pratyush-kumar-3776a5342"><img src="https://img.shields.io/badge/LinkedIn-Connect-7D5468?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=120D11" /></a>
+<a href="https://github.com/pratyush-dot01"><img src="https://img.shields.io/badge/GitHub-pratyush--dot01-2E1F29?style=for-the-badge&logo=github&logoColor=white&labelColor=120D11" /></a>
 
 </div>
 
@@ -93,43 +93,43 @@ A few things that describe how I work:
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-2E1065?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4C1D95?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-6D28D9?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-A78BFA?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2E1065?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2E1F29?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-614051?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-7D5468?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-A67C8E?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2E1F29?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **AI / ML / Computer Vision**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-4C1D95?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-6D28D9?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-2E1065?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-A78BFA?style=for-the-badge&logo=opencv&logoColor=white)
-![DeepFace](https://img.shields.io/badge/DeepFace-4C1D95?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-6D28D9?style=for-the-badge)
-![PCA](https://img.shields.io/badge/PCA-2E1065?style=for-the-badge)
-![OCR](https://img.shields.io/badge/OCR-A78BFA?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-614051?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-7D5468?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-2E1F29?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-A67C8E?style=for-the-badge&logo=opencv&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-614051?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-7D5468?style=for-the-badge)
+![PCA](https://img.shields.io/badge/PCA-2E1F29?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-A67C8E?style=for-the-badge)
 
 **Mobile / Frontend**
 
-![Flutter](https://img.shields.io/badge/Flutter-4C1D95?style=for-the-badge&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-6D28D9?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-614051?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-7D5468?style=for-the-badge)
 
 **Backend / Database**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-2E1065?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-A78BFA?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-4C1D95?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-2E1F29?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-A67C8E?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-614051?style=for-the-badge)
 
 **Developer Tools**
 
-![Git](https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-A78BFA?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-4C1D95?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-6D28D9?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-2E1065?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-A78BFA?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7D5468?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2E1F29?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-A67C8E?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-614051?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-7D5468?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-2E1F29?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-A67C8E?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 </div>
 
@@ -326,8 +326,8 @@ Implementation and architectural details remain confidential — see [MediScan A
 
 <div align="center">
 
-<a href="{{ LEETCODE_URL }}"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D0A14" /></a>
-<a href="{{ CODEFORCES_URL }}"><img src="https://img.shields.io/badge/Codeforces-4C1D95?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D0A14" /></a>
+<a href="{{ LEETCODE_URL }}"><img src="https://img.shields.io/badge/LeetCode-7D5468?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=120D11" /></a>
+<a href="{{ CODEFORCES_URL }}"><img src="https://img.shields.io/badge/Codeforces-614051?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=120D11" /></a>
 
 </div>
 
@@ -337,7 +337,7 @@ Implementation and architectural details remain confidential — see [MediScan A
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush-dot01&hide_border=true&background=0D0A14&border=4C1D95&stroke=A78BFA&ring=6D28D9&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=6D28D9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush-dot01&hide_border=true&background=120D11&border=614051&stroke=A67C8E&ring=7D5468&fire=A67C8E&currStreakNum=D3B8C4&sideNums=D3B8C4&currStreakLabel=A67C8E&sideLabels=D3B8C4&dates=7D5468" />
 
 </div>
 
@@ -347,7 +347,7 @@ Implementation and architectural details remain confidential — see [MediScan A
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush-dot01&bg_color=0D0A14&color=C4B5FD&line=A78BFA&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush-dot01&bg_color=120D11&color=D3B8C4&line=A67C8E&point=D3B8C4&area=true&area_color=614051&hide_border=true" width="100%"/>
 
 </div>
 
@@ -357,9 +357,9 @@ Implementation and architectural details remain confidential — see [MediScan A
 
 <div align="center">
 
-<a href="mailto:pratyush10265@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0A14" /></a>
-<a href="https://www.linkedin.com/in/pratyush-kumar-3776a5342"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0A14" /></a>
-<a href="https://github.com/pratyush-dot01"><img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0A14" /></a>
+<a href="mailto:pratyush10265@gmail.com"><img src="https://img.shields.io/badge/Email-A67C8E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=120D11" /></a>
+<a href="https://www.linkedin.com/in/pratyush-kumar-3776a5342"><img src="https://img.shields.io/badge/LinkedIn-7D5468?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=120D11" /></a>
+<a href="https://github.com/pratyush-dot01"><img src="https://img.shields.io/badge/GitHub-2E1F29?style=for-the-badge&logo=github&logoColor=white&labelColor=120D11" /></a>
 
 </div>
 
@@ -371,4 +371,4 @@ Implementation and architectural details remain confidential — see [MediScan A
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:2E1065,100:0D0A14&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:614051,50:2E1F29,100:120D11&height=100&section=footer" width="100%"/>
