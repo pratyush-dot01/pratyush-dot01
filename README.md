@@ -272,34 +272,6 @@ A mobile-first AI application combining **Flutter** for the client experience wi
 
 ---
 
-## 🧮 DSA & Competitive Programming
-
-Algorithmic problem solving preparation across:
-
-| Area | Topics |
-|---|---|
-| Arrays & Strings | Two Pointers, Prefix Sum, Sliding Window |
-| Searching | Binary Search |
-| Linked Lists | Reversal, Fast/Slow Pointer |
-| Trees | DFS, BFS, BST |
-| Graphs | DFS, BFS, Connected Components |
-| Heaps | Priority Queue, Top-K |
-| Greedy | Scheduling, Optimization |
-| Backtracking | Recursion, Search |
-| Dynamic Programming | 1D/2D DP, Optimization |
-| Hashing | Maps, Frequency Counting |
-
-<div align="center">
-
-| Platform | Stats |
-|---|---|
-| LeetCode | `{{ LEETCODE_PROBLEMS_SOLVED }}` problems solved · [Profile]({{ LEETCODE_PROFILE_URL }}) |
-| Codeforces | Rating: `{{ CODEFORCES_RATING }}` · [Profile]({{ CODEFORCES_PROFILE_URL }}) |
-
-</div>
-
----
-
 ## 💼 Experience
 
 <details open>
@@ -322,44 +294,12 @@ Implementation and architectural details remain confidential — see [MediScan A
 
 ---
 
-## 🔗 Coding Profiles
-
-<div align="center">
-
-<a href="{{ LEETCODE_URL }}"><img src="https://img.shields.io/badge/LeetCode-7D5468?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=120D11" /></a>
-<a href="{{ CODEFORCES_URL }}"><img src="https://img.shields.io/badge/Codeforces-614051?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=120D11" /></a>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush-dot01&hide_border=true&background=120D11&border=614051&stroke=A67C8E&ring=7D5468&fire=A67C8E&currStreakNum=D3B8C4&sideNums=D3B8C4&currStreakLabel=A67C8E&sideLabels=D3B8C4&dates=7D5468" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush-dot01&bg_color=120D11&color=D3B8C4&line=A67C8E&point=D3B8C4&area=true&area_color=614051&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
 
 <a href="mailto:pratyush10265@gmail.com"><img src="https://img.shields.io/badge/Email-A67C8E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=120D11" /></a>
 <a href="https://www.linkedin.com/in/pratyush-kumar-3776a5342"><img src="https://img.shields.io/badge/LinkedIn-7D5468?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=120D11" /></a>
-<a href="https://github.com/pratyush-dot01"><img src="https://img.shields.io/badge/GitHub-2E1F29?style=for-the-badge&logo=github&logoColor=white&labelColor=120D11" /></a>
 
 </div>
 
